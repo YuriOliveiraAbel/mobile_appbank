@@ -36,7 +36,7 @@ class CustomDrawer extends StatelessWidget {
                         Text('Yuri',
                           style: TextStyle(fontSize: 14, color: Colors.white),
                         ),
-                        Text('Conta: 1058452  Agencia: 1401',
+                        Text('Conta: 000000  Agencia: 0000',
                           style: TextStyle(fontSize: 14, color: Colors.white),
                         )    
                       ],
